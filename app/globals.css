@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-color: #000;
-  color: #fff;
+  background-color: #000000;
+  color: #ffffff;
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
